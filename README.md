@@ -15,12 +15,13 @@ I have worked for following enterprice companies:
 * Intuit
 * Xero
 * Huawei Technologies
-* TRS
+* TRS (Government Information Technlogy Provider)
 
 And startups:
 
 * REEF Technology (invtested by Masayoshi Son)
 * Slate Technologies (NEOM project partner)
+* BlueJay Mobile (Remote health tech provider)
 * Toyokou (Japanese ecommerce and semiconductor technology provider)
 
 ## The idea behide the project
