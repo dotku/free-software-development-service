@@ -10,19 +10,19 @@ I'm familar with full cycle of software development from initial idea to billion
 
 I have worked for following enterprice companies:
 
-* Meta (previous Facebook)
+* Meta `previous Facebook`
 * Walmart
 * Intuit
 * Xero
 * Huawei Technologies
-* TRS (Government Information Technlogy Provider)
+* TRS `Government Information Technlogy Provider`
 
 And startups:
 
-* REEF Technology (invtested by Masayoshi Son)
-* Slate Technologies (NEOM project partner)
-* BlueJay Mobile (Remote health tech provider)
-* Toyokou (Japanese ecommerce and semiconductor technology provider)
+* REEF Technology `invtested by Masayoshi Son`
+* Slate Technologies `Saudi Arabia NEOM project partner`
+* BlueJay Mobile `Remote health tech provider`
+* Toyokou `Japanese ecommerce and semiconductor technology provider`
 
 ## The idea behide the project
 
