@@ -44,3 +44,7 @@ Few sample of the free projects:
 For proviate project, I would charge based on the market rate, by this way, 
 it would help me to understand how valuable this project and pay more attention on this project.
 
+## How to start?
+
+Create issue ticket over here: https://github.com/dotku/free-software-development-service/issues
+
