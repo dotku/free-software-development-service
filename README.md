@@ -21,7 +21,7 @@ Few sample of the free projects:
 * https://ouxi.us
 * https://carku.us
 * https://github.com/dotku/chronicle
-* https://github.com/dotku/thinkphp-restful-api (53 starts)
+* https://github.com/dotku/thinkphp-restful-api (53 stars)
 
 ## How would you profit and supporting this project sustainable?
 
