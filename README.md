@@ -8,6 +8,21 @@ I'm a software engineer in San Francisco Bay Area, the global #1 place for IT in
 I have been working in the industry over decade as a Full Stack software neigneer. 
 I'm familar with full cycle of software development from initial idea to billions user product.
 
+I have worked for following enterprice companies:
+
+* Meta (previous Facebook)
+* Walmart
+* Intuit
+* Xero
+* Huawei Technologies
+* TRS
+
+And startups:
+
+* REEF Technology (invtested by Masayoshi Son)
+* Slate Technologies (NEOM project partner)
+* Toyokou (Japanese ecommerce and semiconductor technology provider)
+
 ## The idea behide the project
 
 Sometimes it the life is slightly boring, and I want to find something fun to working on without 
