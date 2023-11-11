@@ -47,4 +47,5 @@ it would help me to understand how valuable this project and pay more attention 
 ## How to start?
 
 Create issue ticket over here: https://github.com/dotku/free-software-development-service/issues
+or email me with weijingjaylin@gmail.com.
 
